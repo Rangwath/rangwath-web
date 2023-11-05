@@ -1,0 +1,6 @@
+# Ignoring all Unity game builds
+
+Build/
+TemplateData/
+StreamingAssets/
+*.zip
